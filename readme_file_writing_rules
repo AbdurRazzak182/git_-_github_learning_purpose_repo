@@ -1,0 +1,77 @@
+What is a README.md?
+Think of a README.md file as the "front page" or the "instruction manual" for your project on GitHub. When someone visits your GitHub repository (the folder holding your code), the README is the very first thing they will see.
+
+Its job is to welcome visitors and explain:
+
+What your project is.
+
+Why you built it.
+
+How to use it.
+
+What does the ".md" mean?
+The .md stands for Markdown. Markdown is just a super simple way to format text. Instead of clicking buttons to make text bold or create lists (like you do in Microsoft Word), you use standard keyboard symbols. GitHub automatically translates these symbols into nice-looking, formatted text.
+
+What Should You Put in a README?
+A good beginner README usually includes these basic sections:
+
+Project Title: The name of your project.
+
+Description: A short summary of what the project does.
+
+Installation/Setup: How someone else can get this running on their own computer.
+
+Usage: How to use the project once it's set up.
+
+Credits: Who made it, or any tutorials/tools you used.
+
+How to Write in Markdown (The Basics)
+Writing a README is easy once you know a few Markdown shortcuts. Here is a cheat sheet of the most common formatting tools you will use:
+
+1. Headings
+Use the hash symbol (#) to create headings. The more hashes, the smaller the heading.
+
+Markdown
+# This is a Huge Title
+## This is a Medium Heading
+### This is a Small Heading
+2. Bold and Italic Text
+Use asterisks (*) to emphasize text.
+
+Markdown
+This text is **bold**.
+This text is *italic*.
+3. Lists
+Use hyphens (-) or numbers for lists.
+
+Markdown
+- First item
+- Second item
+- Third item
+
+1. Step one
+2. Step two
+4. Adding Links
+Put the text you want people to click in brackets [] and the URL in parentheses ().
+
+Markdown
+[Click here to go to Google](https://www.google.com)
+5. Showing Code
+If you want to show a snippet of code without it getting messed up, wrap it in backticks (  `).
+
+Markdown
+`print("Hello, World!")`
+How to Actually Create It on GitHub
+If you already have a repository on GitHub, here is how you make one right in your browser:
+
+Go to your repository page on GitHub.
+
+Look for the green "Add a README" button (if you don't have one yet) or click "Add file" > "Create new file" and name it README.md.
+
+Start typing your Markdown!
+
+Click the "Preview" tab at the top of the text box to see what your formatting will actually look like before you save it.
+
+When you are happy with it, click the green "Commit changes" button to save it to your project.
+
+Don't worry about making it perfect on the first try. You can always go back, click the little pencil icon ✏️ on the README file, and edit it later!
